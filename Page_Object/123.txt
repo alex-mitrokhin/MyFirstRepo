@@ -1,1 +1,0 @@
-Загрузить файл в рег.кеш (POST {urlPath}/region-cache/upload)
